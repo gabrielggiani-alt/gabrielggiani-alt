@@ -43,3 +43,11 @@ Looking for an internship opportunity in software development.
 Full-stack web application built for a real credit company in Brasília.
 Institutional website + internal client document management system.
 `Next.js 16` `React 19` `TypeScript` `Tailwind CSS v4`
+
+---
+
+## More projects
+
+- [**frontend-projects**](https://github.com/gabrielggiani-alt/frontend-projects) — Responsive websites built with HTML, CSS and vanilla JavaScript `HTML` `CSS` `JS`
+- [**programas-poo**](https://github.com/gabrielggiani-alt/programas-poo) — Object-oriented programming projects, including a library management system `Java`
+- [**estrutura-de-dados**](https://github.com/gabrielggiani-alt/estrutura-de-dados) — Linked-list ADT and CSV processing `C`
