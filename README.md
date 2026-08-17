@@ -48,6 +48,7 @@ Institutional website + internal client document management system.
 
 ## More projects
 
+- [**cofre**](https://github.com/gabrielggiani-alt/cofre) — Offline-first PWA for tracking a monthly spending cap, credit card bill and savings projection `JavaScript` `PWA`
 - [**frontend-projects**](https://github.com/gabrielggiani-alt/frontend-projects) — Responsive websites built with HTML, CSS and vanilla JavaScript `HTML` `CSS` `JS`
 - [**programas-poo**](https://github.com/gabrielggiani-alt/programas-poo) — Object-oriented programming projects, including a library management system `Java`
 - [**estrutura-de-dados**](https://github.com/gabrielggiani-alt/estrutura-de-dados) — Linked-list ADT and CSV processing `C`
