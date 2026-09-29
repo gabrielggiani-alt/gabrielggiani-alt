@@ -52,3 +52,10 @@ Institutional website + internal client document management system.
 - [**frontend-projects**](https://github.com/gabrielggiani-alt/frontend-projects) — Responsive websites built with HTML, CSS and vanilla JavaScript `HTML` `CSS` `JS`
 - [**library-management-system**](https://github.com/gabrielggiani-alt/library-management-system) — Library management system in Java with full CRUD, inheritance and polymorphism `Java`
 - [**linked-list-csv-reader**](https://github.com/gabrielggiani-alt/linked-list-csv-reader) — Linked-list ADT in C for reading and processing CSV files `C`
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielggiani-alt/gabrielggiani-alt/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/gabrielggiani-alt/gabrielggiani-alt/output/github-snake.svg">
+</picture>
