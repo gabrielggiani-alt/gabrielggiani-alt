@@ -9,7 +9,7 @@ Looking for an internship opportunity in software development.
 
 - 🎓 Studying Systems Analysis and Development (ADS) — UCB
 - 📍 Brasília, DF — Brazil
-- 🌱 Currently building a full-stack web application for a real client
+- 🌱 Currently building my professional portfolio site
 - 💬 Intermediate English
 - 📫 gabrielggiani@gmail.com
 
